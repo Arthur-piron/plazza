@@ -1,0 +1,12 @@
+*.o
+plazza
+.vscode/
+assets/
+*.txt
+
+# Secrets and local config
+.env
+.env.*
+*.pem
+*.key
+log.txt
